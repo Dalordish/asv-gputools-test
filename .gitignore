@@ -1,0 +1,8 @@
+
+.asv/
+
+.vscode/
+
+venv/
+
+benchmarks/__pycache__/
